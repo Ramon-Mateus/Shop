@@ -29,5 +29,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## To create a Api Service
 
 ```shell
-ng generate service services/api
+ng generate service {nome do service}
+```
+
+## To create a Component
+
+```shell
+ng generate component {nome do componente}
 ```
